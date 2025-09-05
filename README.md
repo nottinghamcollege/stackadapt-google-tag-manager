@@ -1,0 +1,1 @@
+# stackadapt-google-tag-manager
